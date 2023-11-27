@@ -1,0 +1,7 @@
+# TODO essential list of licenses we want to have used inside dams for media-files
+# should use public references (URI e.g. cc has some, spdx too) if formally available
+# should introduce a decent type sor vocab server can find them
+# as well as straightforward path to label and search-fields
+# resort to own spaced URI only when nothing exists --> explicitely we want to have a NOT-KNOWN / Orphaned Work (which might be not something out there?)
+
+# this will require some @base that is coordinated through proper w3id.org/vliz space

@@ -16,3 +16,10 @@
   schema:alternateName "CC0" ; 
 
 .
+
+<https://dams.vliz.be/licenses/orphaned>
+  a cc:License ; 
+  schema:name "orphaned work - no license available" ;  
+  schema:alternateName "unknown", "missing" ; 
+
+.

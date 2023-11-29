@@ -4,3 +4,12 @@
 # as well as straightforward path to label and search-fields
 
 # will require some @base that is coordinated through proper w3id.org/vliz space
+@prefix epsg: <https://epsg.io/> .
+@prefix qudt: <http://qudt.org/schema/qudt/>.
+@prefix schema: <http://schema.org/>.
+
+epsg:4326
+  a qudt:CoordinateSystem ;
+  schema:name ""  ;
+  schema:alternateName "" ;
+.

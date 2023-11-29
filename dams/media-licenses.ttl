@@ -5,3 +5,14 @@
 # resort to own spaced URI only when nothing exists --> explicitely we want to have a NOT-KNOWN / Orphaned Work (which might be not something out there?)
 
 # this will require some @base that is coordinated through proper w3id.org/vliz space
+
+@prefix cc:   <http://creativecommons.org/ns#>.
+@prefix schema: <http://schema.org/>.
+
+#example
+<https://creativecommons.org/publicdomain/zero/1.0/>
+  a cc:License ; 
+  schema:name "Creative Commons - public domain" ; 
+  schema:alternateName "CC0" ; 
+
+.

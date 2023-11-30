@@ -9,17 +9,57 @@
 @prefix cc:   <http://creativecommons.org/ns#>.
 @prefix schema: <http://schema.org/>.
 
-#example
-<https://creativecommons.org/publicdomain/zero/1.0/>
-  a cc:License ; 
-  schema:name "Creative Commons - public domain" ; 
-  schema:alternateName "CC0" ; 
-
-.
-
 <https://dams.vliz.be/licenses/orphaned>
   a cc:License ; 
   schema:name "orphaned work - no license available" ;  
   schema:alternateName "unknown", "missing" ; 
+.
 
+#Creative Commons licenses
+<https://creativecommons.org/publicdomain/mark/1.0/>
+  a cc:License ; 
+  schema:name "Creative Commons - Public Domain Mark 1.0" ; 
+  schema:alternateName "PDM 1.0" ; 
+.
+
+<https://creativecommons.org/publicdomain/zero/1.0/>
+  a cc:License ; 
+  schema:name "Creative Commons - No Rights Reserved 1.0" ; 
+  schema:alternateName "CC 0 1.0" ; 
+.
+
+<https://creativecommons.org/licenses/by/4.0/>
+  a cc:License ; 
+  schema:name "Creative Commons - Attribution 4.0" ; 
+  schema:alternateName "CC BY 4.0" ; 
+.
+
+<https://creativecommons.org/licenses/by-sa/4.0/>
+  a cc:License ; 
+  schema:name "Creative Commons - Attribution-ShareAlike 4.0" ; 
+  schema:alternateName "CC BY-SA 4.0" ; 
+.
+
+<https://creativecommons.org/licenses/by-nc/4.0/>
+  a cc:License ; 
+  schema:name "Creative Commons - Attribution-NonCommercial 4.0" ; 
+  schema:alternateName "CC BY-NC 4.0" ; 
+.
+
+<https://creativecommons.org/licenses/by-nd/4.0/>
+  a cc:License ; 
+  schema:name "Creative Commons - Attribution-NoDerivatives 4.0" ; 
+  schema:alternateName "CC BY-ND 4.0" ; 
+.
+
+<https://creativecommons.org/licenses/by-nc-sa/4.0/>
+  a cc:License ; 
+  schema:name "Creative Commons - Attribution-NonCommercial-ShareAlike 4.0" ; 
+  schema:alternateName "CC BY-NC-SA 4.0" ; 
+.
+
+<https://creativecommons.org/licenses/by-nc-nd/4.0/>
+  a cc:License ; 
+  schema:name "Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0" ; 
+  schema:alternateName "CC BY-NC-ND 4.0" ; 
 .

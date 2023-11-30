@@ -10,6 +10,13 @@
 @prefix schema: <http://schema.org/>.
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 
+<https://en.wikipedia.org/wiki/All_rights_reserved>
+  a cc:License ; 
+  schema:name "All rights reserved" ; 
+  schema:description "Copyrighted work. This license does not disclose any of the Intelectual Property Rights (IPR) or database rights." ; 
+  schema:alternateName "allrightsreserved" ; 
+.
+
 #Creative Commons licenses
 <https://creativecommons.org/publicdomain/mark/1.0/>
   a cc:License ; 

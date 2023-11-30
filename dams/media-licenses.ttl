@@ -8,23 +8,20 @@
 
 @prefix cc:   <http://creativecommons.org/ns#>.
 @prefix schema: <http://schema.org/>.
-
-<https://dams.vliz.be/licenses/orphaned>
-  a cc:License ; 
-  schema:name "orphaned work - no license available" ;  
-  schema:alternateName "unknown", "missing" ; 
-.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>.
 
 #Creative Commons licenses
 <https://creativecommons.org/publicdomain/mark/1.0/>
   a cc:License ; 
   schema:name "Creative Commons - Public Domain Mark 1.0" ; 
+  schema:description "No Known Copyright. The work is public 'according to our current knowledge' or 'as long as otherwise proved'. This license can be used for 'orphan works' or unlicensed work." ; 
   schema:alternateName "PDM 1.0" ; 
 .
 
 <https://creativecommons.org/publicdomain/zero/1.0/>
   a cc:License ; 
-  schema:name "Creative Commons - No Rights Reserved 1.0" ; 
+  schema:name "Creative Commons - No Rights Reserved 1.0" ;
+  schema:description "No Right Reserved. The work is explicitely completely open for everyone without the obligation to refer to someone."
   schema:alternateName "CC 0 1.0" ; 
 .
 

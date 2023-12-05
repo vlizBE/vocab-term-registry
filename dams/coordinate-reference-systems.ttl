@@ -13,115 +13,115 @@
 opengis:28992
   a qudt:CoordinateSystem ;
   schema:name "Amersfoort/RD New" ;
-  schema:identifier "28992" ;
+  schema:identifier "epsg:28992" ;
   schema:sameAs epsg:28992 ; 
 .
 
 opengis:28991
   a qudt:CoordinateSystem ;
   schema:name "Amersfoort/RD Old" ;
-  schema:identifier "28991" ;
+  schema:identifier "epsg:28991" ;
   schema:sameAs epsg:28991 ; 
 .
 
 opengis:21500
   a qudt:CoordinateSystem ;
   schema:name "Belge 50/Belge Lambert 50" ;
-  schema:identifier "21500" ;
+  schema:identifier "epsg:21500" ;
   schema:sameAs epsg:21500 ; 
 .
 
 opengis:31370
   a qudt:CoordinateSystem ;
   schema:name "Belge 72/Belge Lambert 72" ;
-  schema:identifier "31370" ;
+  schema:identifier "epsg:31370" ;
   schema:sameAs epsg:31370 ; 
 .
 
 opengis:4230
   a qudt:CoordinateSystem ;
   schema:name "ED50" ;
-  schema:identifier "4230" ;
+  schema:identifier "epsg:4230" ;
   schema:sameAs epsg:4230 ; 
 .
 
 opengis:3812
   a qudt:CoordinateSystem ;
   schema:name "ETRS89/Belge Lambert" ;
-  schema:identifier "3812" ;
+  schema:identifier "epsg:3812" ;
   schema:sameAs epsg:3812 ; 
 .
 
 opengis:3035
   a qudt:CoordinateSystem ;
   schema:name "ETRS89/LAEA" ;
-  schema:identifier "3035" ;
+  schema:identifier "epsg:3035" ;
   schema:sameAs epsg:3035 ; 
 .
 
 epsg:54009
   a qudt:CoordinateSystem ;
   schema:name "Mollweide"  ;
-  schema:identifier "54009" ;
+  schema:identifier "epsg:54009" ;
   schema:sameAs epsg:54009 ; 
 .
 
 epsg:102018
   a qudt:CoordinateSystem ;
   schema:name "North Pole Stereographic"  ;
-  schema:identifier "102018" ;
+  schema:identifier "epsg:102018" ;
   schema:sameAs epsg:102018 ; 
 .
 
 opengis:4674
   a qudt:CoordinateSystem ;
   schema:name "SIRGAS 2000" ;
-  schema:identifier "4674" ;
+  schema:identifier "epsg:4674" ;
   schema:sameAs epsg:4674 ; 
 .
 
 epsg:102021
   a qudt:CoordinateSystem ;
   schema:name "South Pole Stereographic"  ;
-  schema:identifier "102021" ;
+  schema:identifier "epsg:102021" ;
 .
 
 opengis:4326
   a qudt:CoordinateSystem ;
   schema:name "WGS84" ;
-  schema:identifier "4326" ;
+  schema:identifier "epsg:4326" ;
   schema:sameAs epsg:4326 ; 
 .
 
 opengis:3857
   a qudt:CoordinateSystem ;
   schema:name "WGS84/Pseudo Mercator" ;
-  schema:identifier "3857" ;
+  schema:identifier "epsg:3857" ;
   schema:sameAs epsg:3857 ; 
 .
 
 opengis:32631
   a qudt:CoordinateSystem ;
   schema:name "WGS84/UTM zone 31N" ;
-  schema:identifier "32631" ;
+  schema:identifier "epsg:32631" ;
   schema:sameAs epsg:32631 ; 
 .
 
 opengis:32632
   a qudt:CoordinateSystem ;
   schema:name "WGS84/UTM zone 32N" ;
-  schema:identifier "32632" ;
+  schema:identifier "epsg:32632" ;
   schema:sameAs epsg:32632 ; 
 .
 
 epsg:54004
   a qudt:CoordinateSystem ;
   schema:name "World Mercator"  ;
-  schema:identifier "54004" ;
+  schema:identifier "epsg:54004" ;
 .
 
 epsg:54030
   a qudt:CoordinateSystem ;
   schema:name "World Robinson"  ;
-  schema:identifier "54030" ;
+  schema:identifier "epsg:54030" ;
 .
